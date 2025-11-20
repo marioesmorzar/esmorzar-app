@@ -1,0 +1,78 @@
+{
+  "common": {
+    "back": "Atrás",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Has olvidado la contraseña?",
+    "resetPassword": "Restablecer contraseña",
+    "returnToLogin": "Volver al inicio de sesión",
+    "alreadyHaveAccount": "Ya tengo cuenta",
+    "firstTime": "Es mi primera vez",
+    "whatShouldICallYou": "¿Cómo quieres que te diga?",
+    "createPassword": "Crea tu contraseña",
+    "writeEmail": "Escribe tu correo",
+    "writePassword": "Escribe tu contraseña"
+  },
+  "dashboard": {
+    "title": "¿Dónde toca esmorzar hoy, {{name}}?",
+    "newEsmorzar": "Nou esmorzar",
+    "latestEsmorzar": "Últimos esmorzars",
+    "seeAll": "Ver todos",
+    "noEsmorzarYet": "Aún no tienes ningún esmorzar",
+    "addFirst": "Añade el primero para empezar a hacer seguimiento.",
+    "esmorzars": "Esmorzars",
+    "bars": "Bares",
+    "level": "Nivell",
+    "uploadToLevelUp": "Sube tus esmorzars para subir de nivel"
+  },
+  "esmorzar": {
+    "new": "Nuevo esmorzar",
+    "whereDidYouEat": "¿Dónde has esmorzat hoy?",
+    "bar": "Bar",
+    "searchBar": "Busca un bar...",
+    "addBar": "Añadir bar",
+    "date": "Fecha",
+    "today": "Hoy",
+    "bocadillo": "Bocadillo",
+    "gasto": "Gasto",
+    "bebida": "Bebida",
+    "cafe": "Café",
+    "review": "Nota personal / Reseña (opcional)",
+    "reviewPrivate": "Este comentario es privado y solo lo podrás ver tú.",
+    "price": "Precio (€)",
+    "addPhotos": "Añadir fotos",
+    "saveEsmorzar": "Guardar esmorzar",
+    "finish": "Finalizar",
+    "summary": "Resumen"
+  },
+  "history": {
+    "title": "Últimos esmorzars",
+    "orderedByDate": "Ordenados por fecha: del más reciente al más antiguo",
+    "seeEsmorzar": "Ver esmorzar"
+  },
+  "stats": {
+    "title": "Estadísticas",
+    "totalEsmorzars": "Total de esmorzars",
+    "totalBars": "Total de bares visitados",
+    "level": "Nivel"
+  },
+  "levels": {
+    "beginner": "Principiante",
+    "intermediate": "Intermedio",
+    "advanced": "Avanzado"
+  }
+}
+

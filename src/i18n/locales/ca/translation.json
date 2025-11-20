@@ -1,0 +1,78 @@
+{
+  "common": {
+    "back": "Atrás",
+    "next": "Següent",
+    "save": "Guardar",
+    "cancel": "Cancel·lar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Tancar",
+    "loading": "Carregant...",
+    "error": "Error",
+    "success": "Èxit"
+  },
+  "auth": {
+    "login": "Iniciar sessió",
+    "register": "Registrar-se",
+    "email": "Correu electrònic",
+    "password": "Contrasenya",
+    "forgotPassword": "¿Has oblidat la contrasenya?",
+    "resetPassword": "Restablir contrasenya",
+    "returnToLogin": "Tornar a l'inici de sessió",
+    "alreadyHaveAccount": "Ja tinc compte",
+    "firstTime": "És la meva primera vegada",
+    "whatShouldICallYou": "Com vols que et diga?",
+    "createPassword": "Crea la teua contrasenya",
+    "writeEmail": "Escriu el teu correu",
+    "writePassword": "Escriu la teua contrasenya"
+  },
+  "dashboard": {
+    "title": "Aon toca esmorzar hui, {{name}}?",
+    "newEsmorzar": "Nou esmorzar",
+    "latestEsmorzar": "Últims esmorzars",
+    "seeAll": "Veure tots",
+    "noEsmorzarYet": "Encara no tens cap esmorzar",
+    "addFirst": "Afegeix el teu primer per a començar a fer un seguiment.",
+    "esmorzars": "Esmorzars",
+    "bars": "Bars",
+    "level": "Nivell",
+    "uploadToLevelUp": "Puja els teus esmorzars per a pujar de nivell"
+  },
+  "esmorzar": {
+    "new": "Nou esmorzar",
+    "whereDidYouEat": "¿On has esmorzat hui?",
+    "bar": "Bar",
+    "searchBar": "Busca un bar...",
+    "addBar": "Añadir bar",
+    "date": "Data",
+    "today": "Hui",
+    "bocadillo": "Bocadillo",
+    "gasto": "Gasto",
+    "bebida": "Bebida",
+    "cafe": "Café",
+    "review": "Nota personal / Resenya (opcional)",
+    "reviewPrivate": "Aquest comentari és privat i només el podràs veure tu.",
+    "price": "Preu (€)",
+    "addPhotos": "Afegir fotos",
+    "saveEsmorzar": "Guardar esmorzar",
+    "finish": "Finalitzar",
+    "summary": "Resum"
+  },
+  "history": {
+    "title": "Últims esmorzars",
+    "orderedByDate": "Ordenats per data: del més recent al més antic",
+    "seeEsmorzar": "Ver esmorzar"
+  },
+  "stats": {
+    "title": "Estadístiques",
+    "totalEsmorzars": "Total d'esmorzars",
+    "totalBars": "Total de bars visitats",
+    "level": "Nivell"
+  },
+  "levels": {
+    "beginner": "Principiante",
+    "intermediate": "Intermedi",
+    "advanced": "Avançat"
+  }
+}
+
